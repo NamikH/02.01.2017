@@ -1,0 +1,6 @@
+﻿Client side və server side dillər arasında əsas fərqləri əsaslandıraraq yazın.
+
+Client side dillər saytın görünən hissəsidir yəni istifadəçinin kompüterinin resursların istifadə edir.
+Client side dillərə JavaScript,CSS,HTML və s daxildir.
+Server side dillər saytın görünməyən hissəsidir yəni serverdə işləyir(səyfə yenilənəndə işləyir).
+Server side dillərə isə ASP.NET,PHP,Puython,Ruby və s daxildir.
